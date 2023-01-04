@@ -94,6 +94,7 @@ form {
   padding: 10px;
   display: flex;
   flex-direction: column;
+  flex-wrap: wrap;
 }
 
 form > div {
